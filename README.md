@@ -18,15 +18,6 @@ Proyek ini merupakan submission akhir kelas **Machine Learning** pada platform D
 
 ```
 submission/
-├── saved_model/
-│   ├── saved_model.pb
-│   └── variables/
-├── tfjs_model/
-│   ├── model.json
-│   └── group1-shard1of1.bin
-├── tflite/
-│   ├── model.tflite
-│   └── label.txt
 ├── notebook.ipynb
 ├── README.md
 └── requirements.txt
